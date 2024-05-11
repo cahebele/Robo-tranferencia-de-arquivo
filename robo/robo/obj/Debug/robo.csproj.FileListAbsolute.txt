@@ -1,0 +1,10 @@
+C:\Users\camila\source\repos\robo\robo\bin\Debug\robo.exe.config
+C:\Users\camila\source\repos\robo\robo\bin\Debug\robo.exe
+C:\Users\camila\source\repos\robo\robo\bin\Debug\robo.pdb
+C:\Users\camila\source\repos\robo\robo\bin\Debug\Ninject.dll
+C:\Users\camila\source\repos\robo\robo\bin\Debug\Ninject.xml
+C:\Users\camila\source\repos\robo\robo\obj\Debug\robo.csproj.AssemblyReference.cache
+C:\Users\camila\source\repos\robo\robo\obj\Debug\robo.csproj.CoreCompileInputs.cache
+C:\Users\camila\source\repos\robo\robo\obj\Debug\robo.csproj.Up2Date
+C:\Users\camila\source\repos\robo\robo\obj\Debug\robo.exe
+C:\Users\camila\source\repos\robo\robo\obj\Debug\robo.pdb
